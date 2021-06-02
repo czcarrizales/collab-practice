@@ -1,8 +1,11 @@
 body {
-    background-color: #003366;
+    background-color: #000;
 }
 .navbar {
     background-color: #e3f2fd;
+}
+.jumbotron {
+    margin-bottom: 0;
 }
 .dropdown-menu {
     background-color: #e3f2fd;
