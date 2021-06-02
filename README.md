@@ -1,1 +1,1 @@
-# collab-practice
+# bootstrap-boilerplate
